@@ -40,7 +40,7 @@ engine.setProperty("volume",1.4)
 ```
 chatbot=ChatBot('chatbot')
 ```
-7. At this point your chat bot, will learn to communicate as you talk to him. You can speed up this process by training him with examples of existing conversations.We will be raining our chatbot with conversations stored in a .txt file.[click here](https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/chats.txt)
+7. At this point your chat bot, will learn to communicate as you talk to him. You can speed up this process by training him with examples of existing conversations.We will be raining our chatbot with conversations stored in a .txt file.[click here](https://raw.githubusercontent.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/master/chats.txt)
 ```
 trainer = ListTrainer(chatbot)
 i=1
