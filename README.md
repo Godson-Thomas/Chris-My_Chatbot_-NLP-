@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/1.jpg" width="500">  <br><br> 
+<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/1.png" width="300">  <br><br> 
 # NATURAL LANGUAGE PROCESSING(NLP)
 **Natural language processing**  is a subfield of linguistics, information engineering, and artificial intelligence concerned with the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data. NLP which is a branch of artificial intelligence helps computers understand, interpret and manipulate human language.
 # Chatterbot-Corpus
@@ -28,7 +28,7 @@ pip install pypiwin32
 ```
 * ## Code
 4. Import the modules<br><br>
-<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/2.jpg" width="500" height="75">  <br><br> 
+<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/2.jpg" width="500" height="100">  <br><br> 
 
 5. Initializing function to get an engine instance for the speech synthesis.<br>
 ```
@@ -73,4 +73,4 @@ while True:
 ```
 We will be iterating through the loop whenever the user inputs.And if the user inputs a "bye", we will exit the loop by giving a specific response. So the program control will be exited from the while loop.<br><br>
 
-<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/4.png" width="500">  <br><br> 
+<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/4.png" width="800">  <br><br> 
