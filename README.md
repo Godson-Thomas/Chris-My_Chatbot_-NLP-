@@ -5,7 +5,7 @@
 ChatterBot is a machine-learning based conversational dialog engine build in. Python makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.These modules are used to quickly train ChatterBot to respond to various inputs in different languages.<br>We will use this for training out chatbot.
 # Python | Text to Speech by using pyttsx3
 **pyttsx3**  is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3 engine instance. it is a very easy to use tool which converts the entered text into speech.<br>
-we will use this library to convert text to speech for our chatbot
+We will use this library to convert text to speech for our chatbot
 
 # Steps
 ## Installation
