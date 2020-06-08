@@ -73,4 +73,4 @@ while True:
 ```
 We will be iterating through the loop whenever the user inputs.And if the user inputs a "bye", we will exit the loop by giving a specific response. So the program control will be exited from the while loop.<br><br>
 
-<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/4.png" width="1000">  <br><br> 
+<img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/4.png" width="2000">  <br><br> 
