@@ -76,6 +76,6 @@ We will be iterating through the loop whenever the user inputs.And if the user i
 <img src="https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Images/4.png" width="2000">  <br><br>
 
 ## Full Code:
-[click here]()
+[click here](https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/Chatbot.ipynb)
 ## Chatbot_Video
-[click here]()
+[click here](https://github.com/Godson-Thomas/Chris-My_Chatbot_-NLP-/blob/master/My_chatbot.mp4)
