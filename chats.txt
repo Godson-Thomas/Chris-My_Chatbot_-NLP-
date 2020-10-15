@@ -1,5 +1,5 @@
 hello
-h_i
+hi
 who are you?
 i am a Chatbot
 how are you?

@@ -2,7 +2,7 @@
 # NATURAL LANGUAGE PROCESSING(NLP)
 **Natural language processing**  is a subfield of linguistics, information engineering, and artificial intelligence concerned with the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data. NLP which is a branch of artificial intelligence helps computers understand, interpret and manipulate human language.
 # Chatterbot-Corpus
-ChatterBot is a machine-learning based conversational dialog engine build in. Python makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.These modules are used to quickly train ChatterBot to respond to various inputs in different languages.<br>We will use this for training out chatbot.
+ChatterBot is a machine-learning based conversational dialog engine built in. Python makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.These modules are used to quickly train ChatterBot to respond to various inputs in different languages.<br>We will use this for training out chatbot.
 # Python | Text to Speech by using pyttsx3
 **pyttsx3**  is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline and is compatible with both Python 2 and 3. An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3 engine instance. it is a very easy to use tool which converts the entered text into speech.<br>
 We will use this library to convert text to speech for our chatbot
